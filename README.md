@@ -3,8 +3,7 @@
 Aplicación web responsive para gestionar tareas personales, académicas y laborales. Permite añadir tareas, asignar prioridad y categoría, marcarlas como completadas, eliminarlas, buscar, filtrar y revisar el porcentaje de avance.
 
 ## Enlace público de producción
-
-**Pendiente de completar tras el despliegue:** `https://TU-PROYECTO.vercel.app`
+https://vue-taskflow.vercel.app
 
 > Reemplaza el marcador anterior por tu URL real antes de entregar la actividad. El proyecto no está desplegado por defecto.
 
